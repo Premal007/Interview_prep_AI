@@ -159,7 +159,7 @@ function InterviewPrep() {
         }
       />
 
-    <div className='container mx-auto pt-4 px-4 pb-4 md:px-0'>
+    <div className='container mx-auto pt-4 px-4 pb-4 md:px-0 max-w-screen-xl'>
       <h2 className='text-lg font-semibold color-black'></h2>
       <div className='grid grid-cols-12 gap-4 mb-10'>
         <div
